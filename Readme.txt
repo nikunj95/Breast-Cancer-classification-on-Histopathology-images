@@ -1,4 +1,5 @@
-Special mention to Adrian Rosebrock for posting a very useful tutorial for Breast classificaiton with Keras and Deep Learning. Find the tutorial here: https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
+Special mention to Adrian Rosebrock for posting a very useful tutorial for Breast classificaiton with Keras and Deep Learning.
+Find the tutorial here: https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
 
 Dataset used for this project - Breast Histopathology Images
 Find the link to the dataset here: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
