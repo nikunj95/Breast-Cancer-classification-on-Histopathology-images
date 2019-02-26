@@ -9,7 +9,9 @@ The number of positve images are 78,786 and the number of negative images are 19
 There are two files:
 script_for_dataset.py - This script builds the dataset by splitting images in training, testing and validation sets.
 
-train.py - This file defines the model and the layers that will be used for training. It then takes the datasets and starts training the model. After training is finished, it provides with the classificaiton report, accuracy, sensitivity and specificity.
+train.py - This file defines the model and the layers that will be used for training. It then takes the datasets and starts
+training the model. After training is finished, it provides with the classificaiton report, accuracy, sensitivity and
+specificity.
 
 Training is conducted using depthwise separable convolution.
 The model acheives an accuracy of around 85%, sensitivity of ~ 85% and specificity of ~ 84%.
